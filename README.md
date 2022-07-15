@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: R.Carter86@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Where to begin...
+- ⚡ Fun fact: Where to begin.....
 -->
