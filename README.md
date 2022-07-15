@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Rian-Carter/Rian-Carter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my coursework with Epicodus
@@ -11,5 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: R.Carter86@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Where to begin.....
--->
+- ⚡ Fun fact: Where to begin...
